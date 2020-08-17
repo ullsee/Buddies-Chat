@@ -27,6 +27,6 @@ Group Chat Android and IOS app created using Dart
 <img src="./images/chat.jpg" width="50%" alt="Chat"/>
 
 * Google Firebase used for storing messages
-* Different Styles for received and sent messages
+* Different styles for received and sent messages
 
 
