@@ -7,10 +7,11 @@ Group Chat Android and IOS app created using Dart
 * Login Page using Email
 * Database integration with Firebase
 
-## App UI
-<img src="./images/home.jpg" alt="Home" width="45%" style="float:left; padding-right:50px"/> <img src="./images/chat.jpg" alt="Chat" width="45%"/>
+## Home Screen
+<img src="./images/home.jpg" width="50%" alt="Home"/>
+* Applied animation on title using Animated_Text_Kit package
+* Option to Register or Login
 
-<img src="./images/login.jpg" alt="Login" width="45%" style="float:left; padding-right:50px"/> <img src="./images/register.jpg" alt="Register" width="45%"/>
 
 
 
