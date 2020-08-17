@@ -8,9 +8,9 @@ Group Chat Android and IOS app created using Dart
 * Database integration with Firebase
 
 ## App UI
-<img src="./images/home.jpg" alt="Home" width="50%"/> <img src="./images/chat.jpg" alt="Chat" width="50%"/>
+<img src="./images/home.jpg" alt="Home" width="45%"/> <img src="./images/chat.jpg" alt="Chat" width="45%"/>
 
-<img src="./images/login.jpg" alt="Login" width="50%"/> <img src="./images/register.jpg" alt="Register" width="50%"/>
+<img src="./images/login.jpg" alt="Login" width="45%"/> <img src="./images/register.jpg" alt="Register" width="45%"/>
 
 
 
